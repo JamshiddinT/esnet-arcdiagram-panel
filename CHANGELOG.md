@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 3.0.0
 
 - Backport Grafana 13 source/destination rendering fixes while preserving
   Grafana 9 field-vector support.
